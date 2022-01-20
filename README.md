@@ -41,6 +41,9 @@ Less expensive, energy efficient than PoW - as security does not depend on hashi
 
 
 ## [Delegated Proof-of-Stake](https://www.nichanank.com/blog/2018/6/4/consensus-algorithms-pos-dpos)
+
+<img src='./images/dpos.png' >
+
 DPoS uses reputation systems and real-time voting to elect a panel of witnesses, who take turns adding new blocks. At every t time interval (e.g. every 10 minutes), the list of witnesses reshuffles and they take turns adding blocks again according to the new ordering
 
 
